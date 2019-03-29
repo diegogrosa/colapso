@@ -1,0 +1,3 @@
+Pipecop - Pipeline Colapse Prediction
+
+Código para predição de pressão de colapso em tubulações sob pressão externa com defeito usando os métodos DNV, RCA, STL, SNAM, ABS e RCA. 
